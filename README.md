@@ -13,4 +13,5 @@ $ npm run
 ## Ref
 
 If you need BLE advertise sample, You can see below.
+
 https://github.com/szkkentaro/BLE-periferal-sample
