@@ -1,0 +1,23 @@
+{
+  "name": "ble-central-sample",
+  "version": "1.0.0",
+  "description": "This is sample code for BLE central using node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/szkkentaro/BLE-central-sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szkkentaro/BLE-central-sample/issues"
+  },
+  "homepage": "https://github.com/szkkentaro/BLE-central-sample#readme",
+  "dependencies": {
+    "noble": "^1.9.0"
+  }
+}
